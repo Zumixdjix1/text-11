@@ -5,8 +5,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zumixdjix1/text-11.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+   "bugs": {
+     "url": "https://github.com/Zumixdjix1/text-11/issues"
+   },
+  "homepage": "https://github.com/Zumixdjix1/text-11#readm"
 }
